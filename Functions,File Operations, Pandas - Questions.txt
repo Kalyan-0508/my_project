@@ -32,7 +32,7 @@ move the data of above columns to new csv file
     'Name': ['Luke','Gina','Sam','Emma'],
     'Status': ['Father', 'Mother', 'Son', 'Daughter'],
     'Birthyear': [1976, 1984, 2013, 2016]
-
+dvfdvdvv
 Create a DF and add new column age to the above DF
 
 Filter the result age > 18
